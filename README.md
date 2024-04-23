@@ -14,7 +14,6 @@ This project aims to classify images of cotton plants into different disease cat
 - **Loading Training and Testing Data**: Training and testing data are loaded using flow_from_directory method.
 - **Model Training**: The model is trained using the fit_generator method with the specified number of epochs.
 - **Plotting Loss and Accuracy**: Loss and accuracy curves are plotted for visualization.
-- **Saving the Model**: The trained model is saved in the HDF5 format.
 - **Making Predictions**: The model is used to make predictions on the testing set.
 - **Saving Predictions**: Predictions are saved for further analysis.
 
